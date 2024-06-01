@@ -4,5 +4,5 @@ source "https://rubygems.org"
 
 # Specify your gem's dependencies in test_gem_line_notifier.gemspec
 gemspec
-
+*.gem
 gem "rake", "~> 13.0"
